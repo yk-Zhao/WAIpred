@@ -1,0 +1,9 @@
+SAMPLE: 533-left.m  AGE(months): 7       PREDICTION RESULT: Normal
+
+METHOD          PREDICTION      PROBABILITY     
+FNN             0               0.9736          
+CNN             0               1.0000          
+KDE             0               0.5395          
+RF              0               0.5500          
+SVM             0               0.9023          
+
