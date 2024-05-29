@@ -12,7 +12,9 @@ WAIpred is a program that predicts middle ear pathology in newborns using raw wi
 
 ### Download
 
-Download `WAIpred_ENG.exe` (English version) or `WAIpred_CHN.exe` (Chinese version) from the main branch. You will also need to download the `models`, `temp`, and `train_data` folders and place them in the same directory as the WAIpred executable file. If you are using Windows 7, the WAIpred executable file may encounter errors. In this case, you can try installing the contents of the `windows7` folder to resolve the issue.  
+Download `WAIpred_ENG.exe` (English version) or `WAIpred_CHN.exe` (Chinese version) from the main branch. You will also need to download the `models`, `temp`, and `train_data` folders and place them in the same directory as the WAIpred executable file.  
+
+If you are using Windows 7, the WAIpred executable file may encounter errors. In this case, you can try installing the contents of the `windows7` folder to resolve the issue.  
 
 ### Tutorial
 WAIpred GUI:  
