@@ -12,7 +12,7 @@ WAIpred is a program that predicts middle ear pathology in newborns using raw wi
 
 ### Download
 
-Download WAIpred_ENG.exe (English version) or WAIpred_CHN.exe (Chinese version) from the main branch. You will also need to download the models, temp, and train_data folders and place them in the same directory as the WAIpred executable file. If you are using Windows 7, the WAIpred executable file may encounter errors. In this case, you can try installing the contents of the "windows7" folder to resolve the issue.  
+Download `WAIpred_ENG.exe` (English version) or `WAIpred_CHN.exe` (Chinese version) from the main branch. You will also need to download the `models`, `temp`, and `train_data` folders and place them in the same directory as the WAIpred executable file. If you are using Windows 7, the WAIpred executable file may encounter errors. In this case, you can try installing the contents of the `windows7` folder to resolve the issue.  
 
 ### Tutorial
 WAIpred GUI:  
@@ -25,7 +25,7 @@ WAIpred GUI:
 >(D) Auxiliary judgment area, including the admittance curve at 226Hz and 1000Hz  
 
 ### Input
-The input raw WAI file needs to include the following data entries, you can refer to the example WAI files provided in the "examples" folder for more details.:  
+The input raw WAI file needs to include the following data entries, you can refer to the example WAI files provided in the `examples` folder for more details.:  
 * FREQ: Contains 107 stimulus frequency points ranging from 226 to 8000 Hz.
 * PRESSURE: Sound pressure values covering at least the range from -350 daPa to +150 daPa, without duplicate values.
 * ABSORBANCE: Contains the sound absorption rate for each frequency and pressure, as a 2D matrix.
